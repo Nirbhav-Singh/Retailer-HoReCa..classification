@@ -301,8 +301,7 @@ documentation, where applicable.
 All submitted code and results were reviewed and verified
 by the team.
 
-*Update this statement to accurately reflect the AI tools
-used and their actual contributions.*
+
 
 ---
 
