@@ -9,3 +9,9 @@ Predicts whether the Customer is HoReCa or Retailer based on their annual spendi
 | Bhavya Gupta  | 2026MCB1522 | Code setup and Execution lead |
 | Himanshu | 2026EEB1354 | PPT lead |
 | Sumanth Nayak | 2026EEB1334 | Video lead |
+
+*All four members contributed code (see commit history).*
+
+## Project structure
+
+```text
