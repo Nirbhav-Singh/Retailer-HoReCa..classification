@@ -6,6 +6,6 @@ Predicts whether the Customer is HoReCa or Retailer based on their annual spendi
 | Member | Entry no. | Role |
 |---|---|---|
 | Nirbhav Singh | 2026AIB1064 | Documentation lead |
-| Bhavya Gupta  | 2026MCB1522 | Run and reproducibility lead |
+| Bhavya Gupta  | 2026MCB1522 | Code setup and Execution lead |
 | Himanshu | 2026EEB1354 | PPT lead |
 | Sumanth Nayak | 2026EEB1334 | Video lead |
