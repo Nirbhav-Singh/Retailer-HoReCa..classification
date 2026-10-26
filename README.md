@@ -31,10 +31,10 @@ annual expenditure.
 
 | Team Member | Entry Number | Role |
 |---|---|---|
-| Nirbhav Singh | 2026AIB1064 | Documentation and GitHub management |
-| Bhavya Gupta | 2026MCB1522 | Setup and code execution |
-| Himanshu | 2026EEB1354 | Presentation |
-| Sumanth Nayak | 2026EEB1334 | Video |
+| Nirbhav Singh | 2026AIB1064 | Documentation and GitHub Lead|
+| Bhavya Gupta | 2026MCB1522 | Execution Lead|
+| Himanshu | 2026EEB1354 | Presentation Lead |
+| Sumanth Nayak | 2026EEB1334 | Video Lead |
 
 *All team members contributed to the development and implementation
 of the project. Responsibilities indicate primary areas of work.*
