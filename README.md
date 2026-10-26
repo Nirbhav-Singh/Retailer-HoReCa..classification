@@ -31,10 +31,10 @@ annual expenditure.
 
 | Team Member | Entry Number | Role |
 |---|---|---|
-| [Member 1] | [Entry Number] | Documentation and GitHub management |
-| [Member 2] | [Entry Number] | Data preprocessing |
-| [Member 3] | [Entry Number] | Model development and evaluation |
-| [Member 4] | [Entry Number] | Presentation and demonstration video |
+| Nirbhav Singh | 2026AIB1064 | Documentation and GitHub management |
+| Bhavya Gupta | 2026MCB1522 | Setup and code execution |
+| Himanshu | 2026EEB1354 | Presentation |
+| Sumanth Nayak | 2026EEB1334 | Video |
 
 *All team members contributed to the development and implementation
 of the project. Responsibilities indicate primary areas of work.*
