@@ -311,7 +311,7 @@ match the actual files and folders in the repository.*
 
 | Resource | Link |
 |---|---|
-| GitHub Repository | [Project Repository](<YOUR_REPOSITORY_URL>) |
+| GitHub Repository | [Project Repository](https://github.com/Nirbhav-Singh/Retailer-HoReCa..classification) |
 | Dataset | [UCI Wholesale Customers](https://archive.ics.uci.edu/dataset/292/wholesale+customers) |
 | Presentation | [Project Slides](<SLIDES_LINK>) |
 | Demonstration Video | [Project Video](<VIDEO_LINK>) |
