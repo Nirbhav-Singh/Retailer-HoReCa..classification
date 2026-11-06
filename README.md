@@ -150,33 +150,59 @@ annual spending patterns and their respective purchasing channels.
 git clone "https://github.com/Nirbhav-Singh/Retailer-HoReCa..classification"
 cd "Retailer-HoReCa..classification"
 ```
-
 ### Create a Virtual Environment
+
+A virtual environment is created to keep the project's Python dependencies isolated from other Python projects.
 
 ```bash
 python -m venv venv
 ```
 
-Activate the environment:
+### Activate the Virtual Environment
 
-**Windows**
+**Windows (Command Prompt):**
 ```bash
 venv\Scripts\activate
 ```
 
-**macOS / Linux**
+**Windows (PowerShell):**
+```powershell
+.\venv\Scripts\Activate.ps1
+```
+
+**macOS / Linux:**
 ```bash
 source venv/bin/activate
 ```
 
-### Install Dependencies
+### Upgrade pip
+
+Upgrade pip to the latest available version:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install --upgrade pip
 ```
 
----
+### Install Dependencies
 
+Install all the required Python libraries listed in `requirements.txt`:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+### Verify Installation
+
+Check whether Python and pip are installed correctly:
+
+```bash
+python --version
+python -m pip --version
+```
+
+After completing these steps, the project environment is ready to run the classification program.
+
+---
 ## 7. How to Run
 
 After installing the required dependencies, execute the
