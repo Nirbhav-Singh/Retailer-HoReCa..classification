@@ -290,7 +290,7 @@ classifications for HoReCa and Retail customers.*
 Retailer-HoReCa-classification/
 │
 ├── data/
-│   └── wholesale_customers.csv
+│   └── wholesale_customers_data.csv
 │
 ├── src/
 │   ├── main.ipynb
@@ -306,8 +306,6 @@ Retailer-HoReCa-classification/
 └── README.md
 ```
 
-*The structure above is a suggested layout. Update it to
-match the actual files and folders in the repository.*
 
 ---
 
