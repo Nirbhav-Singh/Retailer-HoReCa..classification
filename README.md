@@ -205,20 +205,24 @@ After completing these steps, the project environment is ready to run the classi
 ---
 ## 7. How to Run
 
-After installing the required dependencies, execute the
-main project script.
+The project is implemented using Jupyter Notebook. Follow the steps below to execute the project.
+
+### Launch Jupyter Notebook
 
 ```bash
-python src/main.py
+jupyter notebook
 ```
 
-> Note: Replace the command above with the actual entry-point
-> script and path used in your repository.
+### Open the Project Notebook
 
-The program should perform the classification workflow and
-display the evaluation results.
+Open the project notebook (`.ipynb` file) from the Jupyter Notebook interface.
 
----
+### Execute the Notebook
+
+Run the notebook cells sequentially from beginning to end to perform data loading, preprocessing, model training, evaluation, and prediction.
+
+The notebook displays the classification results and visualisations after execution.
+--- 
 
 ## 8. Model Evaluation
 
