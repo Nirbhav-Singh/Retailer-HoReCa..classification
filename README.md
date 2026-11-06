@@ -293,9 +293,9 @@ Retailer-HoReCa-classification/
 │   └── wholesale_customers.csv
 │
 ├── src/
-│   ├── main.py
+│   ├── main.ipynb
 │   ├── preprocessing.ipynb
-│   └── model.py
+│   └── model.ipynb
 │
 ├── outputs/
 │   ├── confusion_matrix.png
