@@ -294,7 +294,7 @@ Retailer-HoReCa-classification/
 │
 ├── src/
 │   ├── main.py
-│   ├── preprocessing.py
+│   ├── preprocessing.ipynb
 │   └── model.py
 │
 ├── outputs/
