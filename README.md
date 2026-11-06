@@ -147,8 +147,8 @@ annual spending patterns and their respective purchasing channels.
 ### Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone "https://github.com/Nirbhav-Singh/Retailer-HoReCa..classification"
+cd ""
 ```
 
 ### Create a Virtual Environment
