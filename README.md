@@ -191,6 +191,24 @@ Install all the required Python libraries listed in `requirements.txt`:
 python -m pip install -r requirements.txt
 ```
 
+### Set Up Jupyter Notebook Kernel
+
+To run the project in Jupyter Notebook using the created virtual environment, install and register the Jupyter kernel.
+
+Install Jupyter Notebook and IPython Kernel:
+
+```bash
+python -m pip install ipykernel notebook
+```
+
+Register the virtual environment as a Jupyter kernel:
+
+```bash
+python -m ipykernel install --user --name horeca-env --display-name "Python (HoReCa Project)"
+```
+
+After registration, select **Python (HoReCa Project)** as the kernel when opening the project notebook in Jupyter Notebook.
+
 ### Verify Installation
 
 Check whether Python and pip are installed correctly:
