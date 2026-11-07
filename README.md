@@ -231,7 +231,7 @@ The project is implemented using Jupyter Notebook. Follow the steps below to exe
 jupyter notebook
 ```
 
-you can also write `code .` in the terminal
+you can also write `code .` in the terminal.
 ### Open the Project Notebook
 
 Open the project notebook (`.ipynb` file) from the Jupyter Notebook interface.
