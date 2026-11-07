@@ -204,7 +204,7 @@ python -m pip install ipykernel notebook
 Register the virtual environment as a Jupyter kernel:
 
 ```bash
-python -m ipykernel install --user --name horeca-env --display-name "Retailer-HoReCa..classification"
+python -m ipykernel install --user --name horeca-env --display-name "AI101 Project first year B-Tech.ipynb"
 ```
 
 After registration, select **Python (HoReCa Project)** as the kernel when opening the project notebook in Jupyter Notebook.
