@@ -252,7 +252,7 @@ The following metrics are considered:
 
 | Metric | Description |
 |---|---|
-| Accuracy | Overall percentage of correct predictions |
+| Accuracy |92.424% |
 | Precision | Correct positive predictions among all positive predictions |
 | Recall | Correctly identified instances of a class |
 | F1-score | Harmonic mean of precision and recall |
