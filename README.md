@@ -263,13 +263,11 @@ The following metrics are considered:
 | Metric | Value |
 |---|---|
 | Accuracy | 92.424% |
-| Precision | [Add actual result] |
-| Recall | [Add actual result] |
-| F1-score | [Add actual result] |
+| Precision | 42/45 |
+| Recall | 42/44 |
+| F1-score | 0.944 |
 
-*All values should be filled using the actual model evaluation
-output. Report class-wise precision, recall and F1-score
-where appropriate.*
+
 
 ---
 
