@@ -252,7 +252,7 @@ The following metrics are considered:
 
 | Metric | Description |
 |---|---|
-| Accuracy |92.424% |
+| Accuracy |the proportion of total binary predictions (both positive and negative) that the model gets right |
 | Precision | Correct positive predictions among all positive predictions |
 | Recall | Correctly identified instances of a class |
 | F1-score | Harmonic mean of precision and recall |
@@ -262,7 +262,7 @@ The following metrics are considered:
 
 | Metric | Value |
 |---|---|
-| Accuracy | [Add actual result] |
+| Accuracy | 92.424% |
 | Precision | [Add actual result] |
 | Recall | [Add actual result] |
 | F1-score | [Add actual result] |
