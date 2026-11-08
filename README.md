@@ -283,11 +283,6 @@ and evaluating the Logistic Regression model.
 *The confusion matrix illustrates the correct and incorrect
 classifications for HoReCa and Retail customers.*
 
-### Model Performance
-
-![Model Performance](outputs/model_performance.png)
-
-*Visual representation of the model's classification performance.*
 
 ### Key Findings
 
