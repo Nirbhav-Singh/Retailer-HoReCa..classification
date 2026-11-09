@@ -272,17 +272,34 @@ The following metrics are considered:
 | Metric | Value |
 |---|---|
 | Accuracy | 93.939% |
-| Precision | 42/45 |
-| Recall | 42/44 |
-| F1-score | 0.944 |
+| Precision | 43/45 |
+| Recall | 43/45 |
+| F1-score | 0.956 |
 
 
 ---
 
-## 9. Results and Visualisations
+## 9. Results and Learnings
+Original model displayed an accuracy of 92.424% with an F1 score of 0.944 while the improved
+model(obtained by removing a less important feature) achieved an accuracy of 93.939% and an F1 score
+of 0.956 in testing.
 
-This section presents the outcomes obtained after training
-and evaluating the Logistic Regression model.
+The improved model saw an increase in both accuracy as well as F1 score.
+While its accuracy improved by 1.515%, its F1 score increased by 0.015.
+
+We learnt that reducing the number of input features by removing either of the highly correlated ones
+can help us improve the performance of the model.
+We also learnt that a clean and organised dataset is the base of any model and selecting/preparing such
+a dataset is the first step towards building any model.
+
+A KEY OBSERVATION:
+Reducing the test size to a very small value(eg. just 10% of the whole data) gave us a remarkable accuracy score,
+but such a train-test split has a risk that we will not be able to detect an existing overfitting issue.
+This is because, a very small-sized testing set has a high chance that it will not include such edge cases which 
+will not be correctly predicted by the model. In that case the overfitting would remain 'hidden'.
+
+
+
 
 ### Confusion Matrix
 
