@@ -258,7 +258,7 @@ The following metrics are considered:
 | F1-score | Harmonic mean of precision and recall |
 | Confusion Matrix | Shows correct and incorrect predictions for both classes |
 
-### Evaluation Results
+### Evaluation Results of the original model
 
 | Metric | Value |
 |---|---|
@@ -267,6 +267,14 @@ The following metrics are considered:
 | Recall | 42/44 |
 | F1-score | 0.944 |
 
+### Evaluation Results of the improved model
+
+| Metric | Value |
+|---|---|
+| Accuracy | 93.939% |
+| Precision | 42/45 |
+| Recall | 42/44 |
+| F1-score | 0.944 |
 
 
 ---
@@ -324,12 +332,16 @@ Retailer-HoReCa-classification/
 
 ## 12. AI-Use Disclosure
 
-AI tools were used to assist with selected tasks such as
-debugging, understanding errors, and improving project
+AI tools including Chat Gpt were used to assist with selected tasks such as
+handling Grammar, understanding errors, and improving project
 documentation, where applicable.
 
-All submitted code and results were reviewed and verified
+All the results were reviewed and verified
 by the team.
+
+All submitted code has been written completely by the team members without any AI-use.
+
+
 
 
 
