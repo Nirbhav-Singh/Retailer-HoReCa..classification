@@ -346,7 +346,7 @@ Retailer-HoReCa-classification/
 |---|---|
 | GitHub Repository | [Project Repository](https://github.com/Nirbhav-Singh/Retailer-HoReCa..classification) |
 | Dataset | [UCI Wholesale Customers](https://archive.ics.uci.edu/dataset/292/wholesale+customers) |
-| Presentation | [Project Slides](https://docs.google.com/presentation/d/1JsqpvrnSn0o68ofxCxyEeP_k4Siv28Fi/edit?usp=sharing&ouid=115385927918514737194&rtpof=true&sd=true) |
+| Presentation | [Project Slides](https://docs.google.com/presentation/d/1JsqpvrnSn0o68ofxCxyEeP_k4Siv28Fi/edit?usp=drivesdk&ouid=115385927918514737194&rtpof=true&sd=true) |
 | Demonstration Video | [Project Video](<VIDEO_LINK>) |
 
 ---
