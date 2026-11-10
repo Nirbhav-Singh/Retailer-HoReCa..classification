@@ -1,5 +1,6 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+libraries required:
+  numpy (to handle tabular data)
+  pandas(to work with csv files)
+  matplotlib(for plotting graphs)
+  seaborn(for plotting heatmaps)
+  scikit-learn(for model training, testing and evaluation)
