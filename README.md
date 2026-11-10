@@ -303,11 +303,14 @@ will not be correctly predicted by the model. In that case the overfitting would
 
 ### Confusion Matrix
 
-![Confusion Matrix]
 ("https://github.com/user-attachments/assets/817ef2f2-f7f8-4457-b7e7-8a75f7f48368" /)
 
 *The confusion matrix illustrates the correct and incorrect
 classifications for HoReCa and Retail customers.*
+
+ ### Accuracy and f1 score
+
+("https://github.com/user-attachments/assets/5537dc70-62dd-43ff-a18b-66fb4bac0b73" /)
 
 
 ---
