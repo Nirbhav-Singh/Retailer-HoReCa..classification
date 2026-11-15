@@ -230,7 +230,7 @@ The project is implemented using Jupyter Notebook. Follow the steps below to exe
 ```bash
 jupyter notebook
 ```
-
+`git add "AI101 Project first year B-Tech.ipynb"`
 you can also write `code .` in the terminal.
 ### Open the Project Notebook
 
